@@ -1,18 +1,20 @@
-using System.Collections;
-using System.Collections.Generic;
+
 using UnityEngine;
+using TMPro;
 
 public class HelloUnity : MonoBehaviour
 {
-    // Start is called before the first frame update
-    void Start()
-    {
-        
-    }
+    public TMPro.TextMeshProUGUI text;
 
-    // Update is called once per frame
-    void Update()
+    int damage = 100;
+    float time = 30.5f;
+    string name = "이순신";
+    private void Start()
     {
-        
+        Debug.Log("데미지의 값" + damage);
+        Debug.Log("시간의 값" + time);
+        Debug.Log("이름" + name);
+
+        text.text = string.Format($"Only{damage} English{time} is visible : 정말이니 ? ");
     }
 }
