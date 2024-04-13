@@ -1,0 +1,14 @@
+C:\Users\명진재\source\repos\CsharpUnitylearn\Funtion\bin\Debug\net6.0\Funtion.exe
+C:\Users\명진재\source\repos\CsharpUnitylearn\Funtion\bin\Debug\net6.0\Funtion.deps.json
+C:\Users\명진재\source\repos\CsharpUnitylearn\Funtion\bin\Debug\net6.0\Funtion.runtimeconfig.json
+C:\Users\명진재\source\repos\CsharpUnitylearn\Funtion\bin\Debug\net6.0\Funtion.dll
+C:\Users\명진재\source\repos\CsharpUnitylearn\Funtion\bin\Debug\net6.0\Funtion.pdb
+C:\Users\명진재\source\repos\CsharpUnitylearn\Funtion\obj\Debug\net6.0\Funtion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\명진재\source\repos\CsharpUnitylearn\Funtion\obj\Debug\net6.0\Funtion.AssemblyInfoInputs.cache
+C:\Users\명진재\source\repos\CsharpUnitylearn\Funtion\obj\Debug\net6.0\Funtion.AssemblyInfo.cs
+C:\Users\명진재\source\repos\CsharpUnitylearn\Funtion\obj\Debug\net6.0\Funtion.csproj.CoreCompileInputs.cache
+C:\Users\명진재\source\repos\CsharpUnitylearn\Funtion\obj\Debug\net6.0\Funtion.dll
+C:\Users\명진재\source\repos\CsharpUnitylearn\Funtion\obj\Debug\net6.0\refint\Funtion.dll
+C:\Users\명진재\source\repos\CsharpUnitylearn\Funtion\obj\Debug\net6.0\Funtion.pdb
+C:\Users\명진재\source\repos\CsharpUnitylearn\Funtion\obj\Debug\net6.0\Funtion.genruntimeconfig.cache
+C:\Users\명진재\source\repos\CsharpUnitylearn\Funtion\obj\Debug\net6.0\ref\Funtion.dll

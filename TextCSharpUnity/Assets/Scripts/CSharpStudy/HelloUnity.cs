@@ -8,7 +8,7 @@ public class HelloUnity : MonoBehaviour
 
     int damage = 100;
     float time = 30.5f;
-    string name = "이순신";
+    string _name = "이순신";
     private void Start()
     {
         Debug.Log("데미지의 값" + damage);
